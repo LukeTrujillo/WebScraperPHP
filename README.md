@@ -1,5 +1,5 @@
 # WebScraperPHP
-__WebScraperPHP is my first respository to ever be submitted on GitHub so please excuse the lack of formalities in thie README. I will try my best to mimic what I have seen from other repositories__
+__WebScraperPHP is my first respository to ever be submitted on GitHub so please excuse the lack of formalities in this README. I will try my best to mimic what I have seen from other repositories__
 
 WebScraper PHP is a ultra simple PHP website Scraper that can be integrated and learned with ease.
 
