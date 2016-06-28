@@ -8,6 +8,7 @@ This .php contains the class Scraper whose primary function is to retrieve HTML 
 
 Declare the object as such:
 ```php
+//class Scraper takes the intended URL as a parameter in its constructor
 $scraper = new Scraper($scrape_url);
 ```
 
