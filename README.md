@@ -7,7 +7,7 @@ WebScraper PHP is a ultra simple PHP website Scraper that can be integrated and 
 This .php contains the class Scraper whose primary function is to retrieve HTML from a source.
 
 Declare the object as such:
-```php
+```PHP
 //class Scraper takes the intended URL as a parameter in its constructor
 $scraper = new Scraper($scrape_url);
 ```
